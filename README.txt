@@ -1,12 +1,6 @@
 
-TITLE: 
-Roxy - Bootstrap 4 template built by GetTemplates.co
-
-AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co and FreeHTML5.co
-
-Websites: https://gettemplates.co https://freehtml5.co/
-
+TITLE:
+Learning Module of Graph Theory
 
 CREDITS:
 
