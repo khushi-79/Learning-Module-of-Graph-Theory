@@ -9,6 +9,8 @@ Venisha Parmar
 Note:
 This module is prepared for those people who are not aware about graphs and its application. It also helpful for those student who are learning Graph theory subject in their respective domain. They can easily understand almost everything basics by learning this module of Graph Theory.
 
+First Run "index.html" file.
+
 Bootstrap
 http://getbootstrap.com/
 
