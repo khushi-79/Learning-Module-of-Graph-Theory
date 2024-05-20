@@ -14,4 +14,4 @@ This Module includes the following Graphs:
   <br>
 NOTE : 1️⃣ First Run "index.html" file.
 
-🔷 As a part of our academic course in Discrete Mathematics and Graph Theory during our third semester, my friend Venisha Parmar[https://github.com/venishaparmar] and I collaborated on this project. We worked as a team of two members to complete this project.
+🔷 As a part of our academic course in Discrete Mathematics and Graph Theory during our third semester, my friend <a href= "https://github.com/venishaparmar">Venisha Parmar</a> and I collaborated on this project. We worked as a team of two members to complete this project.
